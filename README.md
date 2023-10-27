@@ -8,6 +8,8 @@ Codes written by Samik Bose to
 (iii) estimate properties (MFPT, committors etc) of the MSM. 
 
 
+
+
 The objective of the repo is two-fold: 
 
 (i) publicly produce the codes of the workflow mentioned in the recently published JACS paper (https://chemrxiv.org/engage/chemrxiv/article-details/64d67c83dfabaf06ff1e8ead).
@@ -15,7 +17,9 @@ The objective of the repo is two-fold:
 (ii) the codes are written with the target of understanding/building the REVO-MSM workflow without much consideration of the computational efficiency at this point. Hence one can definitely make it more efficient. 
 
 
-Prerequisite:
+
+
+Prerequisite softwares:
 
 (i) Latest version of WEPY (https://github.com/ADicksonLab/wepy)
 
